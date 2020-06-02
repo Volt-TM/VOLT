@@ -1,6 +1,6 @@
 # VOLT
-a all in one bot with 100+commands
-do +help  fo list of all commands
+a all in one bot with  custmoizale prefix
+economy chat ranking moderation fun welcome modules
 
 
 
