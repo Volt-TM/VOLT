@@ -16,4 +16,4 @@ Documentation On [documentation](https://github.com/notadevps/VOLT/wiki)
 
 
 
-![my fav command](https://discordapp.com/channels/@me/657125708631506955/733026373454790717)
+![my fav command](https://media.discordapp.net/attachments/657125708631506955/733026372875845722/vol_delete.js.png)
