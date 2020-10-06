@@ -1,6 +1,6 @@
 # VOLT
 a all in one bot with  custmoizale prefix
-moderation fun music (soundcloud and youtube) modules and much more
+moderation fun music (soundcloud )  With Welcome and much more
 
 <a href="https://top.gg/bot/710534645405581353" >
   <img src="https://top.gg/api/widget/710534645405581353.svg" alt="Volt" />
