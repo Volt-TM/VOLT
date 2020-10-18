@@ -22,4 +22,4 @@ Documentation On [documentation](https://github.com/notadevps/VOLT/wiki)
 
 ![embeds](https://cdn.discordapp.com/attachments/657125708631506955/734055930383302696/top.gg_1.png)
 ![imageembeds](https://media.discordapp.net/attachments/657125708631506955/734056216464195664/top.gg_2.png?width=598&height=475)
-![music](https://media.discordapp.net/attachments/657125708631506955/734057420946669658/top.gg_3.png)
+![music](https://cdn.discordapp.com/attachments/723901162109141063/767347917173555210/unknown.png)
