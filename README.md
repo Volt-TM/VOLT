@@ -1,5 +1,5 @@
 # VOLT
-a multipurpose bot with many fun utilities and custom commands 
+a multipurpose bot with many fun utilities and custom commands , pentesting commands
 
 <a href="https://top.gg/bot/710534645405581353" >
   <img src="https://top.gg/api/widget/710534645405581353.svg" alt="Volt" />
