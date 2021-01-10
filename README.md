@@ -30,4 +30,4 @@ Documentation On [documentation](https://github.com/notadevps/VOLT/wiki)
 
 
 
-developed by - ΛYᏕ ❘ VoltOpᴷᴰᵒᵀ#8135
+developed by - VoltOp#8135
