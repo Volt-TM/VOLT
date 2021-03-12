@@ -30,4 +30,4 @@ Documentation On [documentation](https://github.com/notadevps/VOLT/wiki)
 
 
 
-developed by - VoltOp#8135
+developed by - 「𝐂𝐁𝐒」THOR#8135
